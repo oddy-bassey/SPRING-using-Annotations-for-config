@@ -1,0 +1,13 @@
+Assignment5.HappyFortuneService=org.springframework.stereotype.Component
+Assignment5.RESTFortuneService=org.springframework.stereotype.Component
+Assignment5.SnookerCoach=org.springframework.stereotype.Component
+Assignment5.TennisCoach=org.springframework.stereotype.Component
+BeanScope.HappyFortuneService=org.springframework.stereotype.Component
+BeanScope.SnookerCoach=org.springframework.stereotype.Component
+BeanScope.TennisCoach=org.springframework.stereotype.Component
+FirstDemo.DatabaseFortuneService=org.springframework.stereotype.Component
+FirstDemo.HappyFortuneService=org.springframework.stereotype.Component
+FirstDemo.RESTFortuneService=org.springframework.stereotype.Component
+FirstDemo.RandomFortuneService=org.springframework.stereotype.Component
+FirstDemo.SnookerCoach=org.springframework.stereotype.Component
+FirstDemo.TennisCoach=org.springframework.stereotype.Component
